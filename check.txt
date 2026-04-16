@@ -1,1 +1,1 @@
-check build
+check builds
